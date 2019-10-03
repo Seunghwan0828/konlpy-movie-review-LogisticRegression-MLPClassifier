@@ -1,0 +1,2 @@
+# konlpy_movie_review_LogisticRegression_MLPClassifier
+ 
