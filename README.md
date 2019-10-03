@@ -14,6 +14,6 @@ LogisticRegression과 MLPClassifier 이용하여 한국영화리뷰 분석을 �
 
 6.LogisticRegression과 MLPClassifier을 이용하여 분석을 해보았습니다.
 
-7.최종결과= LogisticRegression은 0.6622의 결과가 나왔고 MLPClassifier은 0.681의 결과가 나왔다.
+7.최종결과= LogisticRegression은 67%의 결과가 나왔고 MLPClassifier은 70%의 결과가 나왔다.
 
-8.분석= 결과값이 좋지않아 처음지정해줬던 vetor_size를 300에서 500으로 올렸더니 소소하게 정확도가 올랐습니다
+8.분석= LogisticRegression보다 MLPClassifier의 결과가 3%정도 높게 나왔다.
